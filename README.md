@@ -38,6 +38,6 @@ All the projects code is available on the [master branch]()
     - Decision Table
 ## Requirements
 - [<ins>Requirement Analysis OR Elicitation</ins>](Project_Deliverables/docs/analysis_and_elicitation.md)
-- [<ins>List of Requirements</ins>]
+- [<ins>List of Requirements</ins>](Project_Deliverables/docs/lisf_of_requirements)
 - [<ins>Use-Case Diagram</ins>](Project_Deliverables/docs/Use_Case_Diagram.jpeg)
 - [<ins>Decision Table</ins>](Project_Deliverables/docs/DecisionTable.png)
